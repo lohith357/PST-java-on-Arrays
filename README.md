@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1360-number-of-days-between-two-dates) |
+## String
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
