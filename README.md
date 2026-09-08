@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0179-largest-number) |
 | [0905-sort-array-by-parity](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1672-richest-customer-wealth) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0179-largest-number) |
 | [0905-sort-array-by-parity](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0905-sort-array-by-parity) |
 ## Matrix
 |  |
@@ -38,6 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0179-largest-number) |
 | [1154-day-of-the-year](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1360-number-of-days-between-two-dates) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
