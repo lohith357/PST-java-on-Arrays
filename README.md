@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1314-matrix-block-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0179-largest-number) |
+| [0890-find-and-replace-pattern](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1360-number-of-days-between-two-dates) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0217-contains-duplicate) |
+| [0890-find-and-replace-pattern](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0890-find-and-replace-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
