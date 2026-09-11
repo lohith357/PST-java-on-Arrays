@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0179-largest-number) |
+| [0459-repeated-substring-pattern](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0459-repeated-substring-pattern) |
 | [0890-find-and-replace-pattern](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1360-number-of-days-between-two-dates) |
@@ -101,5 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1408-string-matching-in-an-array) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
