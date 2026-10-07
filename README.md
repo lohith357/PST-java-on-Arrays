@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Hash Table
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohith357/PST-java-on-Arrays/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/lohith357/PST-java-on-Arrays/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
